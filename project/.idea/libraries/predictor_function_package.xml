@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="predictor-function-package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/predictor-function-package/predictor-function-package.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5265aba1-c72a-4d39-a72e-ec00ffbcd82e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lesson2/Lesson 2, Exercise 5 - Tying it All Together .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/Lesson 2, Exercise 5 - Tying it All Together .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/Lesson 3, Exercise 3 - Creating Workflows with Step Functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/Lesson 3, Exercise 3 - Creating Workflows with Step Functions.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NmhNlw9aQvM7EHBvZBqHTHM3L6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/khalil/dev/udacity/aws-machine-learning/udacity-nd009t-C2-Developing-ML-Workflow/project",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5265aba1-c72a-4d39-a72e-ec00ffbcd82e" name="Changes" comment="" />
+      <created>1680275126421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680275126421</updated>
+      <workItem from="1680275127457" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
